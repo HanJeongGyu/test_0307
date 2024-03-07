@@ -49,8 +49,10 @@ if :
 7
 수평선
 `---`
+
 8
 테이블
+
 |kaslana|shaniat|aphocalips|
 |kavin  |cecilia|auto
 |bianka |ana    |terasa
