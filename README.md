@@ -18,9 +18,11 @@
 
 `kavin kaslana`
 
+[Halla][Halla UNIV]
+[Halla UNIV]: https://www.halla.ac.kr/mbs/kr/index.jsp
+
 
 [Halla UNIV](https://www.halla.ac.kr/mbs/kr/index.jsp)
 
-[Halla][Halla UNIV]
 
-
+<https://www.halla.ac.kr/mbs/kr/index.jsp>
