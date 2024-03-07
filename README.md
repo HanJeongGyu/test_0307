@@ -29,3 +29,9 @@
 
 
 `honkai 3rd`
+
+<pre>
+```python
+if :
+  input('kaslana')
+  print('kiana','kavin','gikfrit')
