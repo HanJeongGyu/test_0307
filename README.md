@@ -12,6 +12,8 @@
 - kiana
 - kavin
 
+3
+
 *kavin kaslana*
 
 **kavin kaslana**
@@ -41,3 +43,27 @@ if :
 
 
 > 처음부터 영웅인 사람은 없다 그저 그들이 그 자리에 있었고 그 책임을 다했을 뿐이다 영웅의 이야기는 이렇게 단순하다
+
+6
+수평선
+`---`
+7
+테이블
+|kaslana|shaniat|aphocalips|
+|kavin  |cecilia|auto
+|bianka |ana    |terasa
+|kiana  |
+|kalen
+
+8
+이스케이프
+\()
+
+9
+수식
+$E = mc^2$
+
+10
+취소선
+
+`~~`
