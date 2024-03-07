@@ -37,7 +37,6 @@
 
 6
 코드
-<pre>
 ```python
 if :
   input('kaslana')
